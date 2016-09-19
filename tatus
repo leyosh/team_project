@@ -1,0 +1,89 @@
+[33mcommit 6415c13c2721faa7eb389c1881258f6d2b5a2b5a[m
+Merge: 85ac4e2 5104eeb
+Author: dtakeshima <b1611dt@aiit.ac.jp>
+Date:   Sun Sep 18 17:49:11 2016 +0900
+
+    Merge pull request #7 from leyosh/takeshima_new_file
+    
+    takeshima new file
+
+[33mcommit 85ac4e2ce6991f65b823ad6175cd740b7a635bdb[m
+Merge: 49540a8 df6e339
+Author: leyosh <ymb.yoshihiro@gmail.com>
+Date:   Sun Sep 18 17:44:40 2016 +0900
+
+    Merge pull request #6 from leyosh/leyosh
+    
+    Create leyosh.html
+
+[33mcommit 49540a81830aed9e9d1f43a4834b5aa86d4f180a[m
+Merge: 943aa61 4f462ab
+Author: Tomomi Kawabe <tomomi.kawabe@aegif.jp>
+Date:   Sun Sep 18 17:44:06 2016 +0900
+
+    Merge pull request #4 from leyosh/kawabe-new-file
+    
+    Created tomomi-rivers.html
+
+[33mcommit df6e339dc891d5cb5bb957f31fad8b535daf8c9a[m
+Author: None <ymb.yoshihiro@gmail.com>
+Date:   Sun Sep 18 08:29:36 2016 +0000
+
+    Create leyosh.html
+
+[33mcommit 5104eeb2b94c7e809af02e3af92ab3338a9993b0[m
+Author: dtakeshima <b1611dt@aiit.ac.jp>
+Date:   Sun Sep 18 08:29:07 2016 +0000
+
+    new file
+
+[33mcommit 943aa6165650528a9c1585ff97aee7ccfafd4f72[m
+Merge: bd77661 99855cf
+Author: leyosh <ymb.yoshihiro@gmail.com>
+Date:   Sun Sep 18 17:16:51 2016 +0900
+
+    Merge pull request #5 from leyosh/leyosh
+    
+    Leyosh
+
+[33mcommit 99855cf3a428817e62dddbca9c6997b23a0d60c9[m
+Author: None <ymb.yoshihiro@gmail.com>
+Date:   Sun Sep 18 08:14:08 2016 +0000
+
+    Create leyosh.html
+
+[33mcommit adb4592bc89779fe156aeb4a0174fa01af95793c[m
+Author: None <ymb.yoshihiro@gmail.com>
+Date:   Sun Sep 18 08:12:37 2016 +0000
+
+    Create leyosh.html
+
+[33mcommit 4f462ab717e3d81a78e2f9a1af2894d5825001b9[m
+Author: Tomomi Kawabe <girrrlande@gmail.com>
+Date:   Sun Sep 18 08:02:22 2016 +0000
+
+    Updated to meet HTML5
+
+[33mcommit c0fa6b60a2e577959a4831d894f59e98c4893144[m
+Author: None <ymb.yoshihiro@gmail.com>
+Date:   Sun Sep 18 07:59:52 2016 +0000
+
+    original message
+
+[33mcommit 696a4ceb4c9058d213bd83a868b6f9b1d56a459a[m
+Author: Tomomi Kawabe <girrrlande@gmail.com>
+Date:   Sun Sep 18 07:58:00 2016 +0000
+
+    Created tomomi-rivers.html
+
+[33mcommit bd77661a04986291025ae82101435f092cea951c[m
+Author: Tomomi Kawabe <tomomi.kawabe@aegif.jp>
+Date:   Sun Sep 18 16:14:53 2016 +0900
+
+    Create README.md
+
+[33mcommit 9105a56495b07c3b1f5f91abb838bc614bd89736[m
+Author: leyosh <ymb.yoshihiro@gmail.com>
+Date:   Sun Sep 18 16:12:06 2016 +0900
+
+    Initial commit
